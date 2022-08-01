@@ -1,5 +1,8 @@
 #  Citi Bike Analytics (January 2020 To december 2020)
 
+https://public.tableau.com/app/profile/ali6965/viz/TableauAssignment-CitiBikeAnalytics_16593199985590/Dashboard1
+
+
 ## Before You Begin
 
 * If you haven't already, make sure to create a Tableau Public [account] (https://public.tableau.com/s/).
@@ -31,30 +34,71 @@ The following are questions you may wish to answer. Do not limit yourself to the
 
 ![Citi-Bikes](Images/1-1.png)
 
+![Citi-Bikes](Images/2.png)
+
 * By what percentage has total ridership grown?
+
+![Citi-Bikes](Images/2-1.png)
+
+
+![Citi-Bikes](Images/2-2.png)
 
 
 * How have the proportions of short-term customers and annual subscribers changed?
 
+------
+
 * What are the peak hours when bikes are used during the summer months?
+
+![Citi-Bikes](Images/4.png)
 
 * What are the peak hours when bikes are used during the winter months?
 
+![Citi-Bikes](Images/5.png)
+
 * Today, what are the top 10 stations in the city for starting a journey? Based on data, why do you hypothesize these are the top locations?
+
+![Citi-Bikes](Images/6.png)
 
 * Today, what are the top 10 stations in the city for ending a journey? Based on data, why?
 
+![Citi-Bikes](Images/7.png)
+
 * Today, what are the bottom 10 stations in the city for starting a journey? Based on data, why?
+
+![Citi-Bikes](Images/8.png)
 
 * Today, what are the bottom 10 stations in the city for ending a journey? Based on data, why?
 
+![Citi-Bikes](Images/9.png)
+
 * How does the average trip duration change by age?
+
+![Citi-Bikes](Images/10.png)
+
+
+![Citi-Bikes](Images/10-1.png)
 
 * What is the average distance in miles for a bike trip?
 
+-----
+
 * Which bikes (by ID) are most likely due for repair or inspection in the timespan?
 
+-----
+
 * How variable is the utilization by bike ID?
+
+-----
+
+
+![Citi-Bikes](Images/11.png)
+
+
+![Citi-Bikes](Images/12-1.png)
+
+
+![Citi-Bikes](Images/13.png)
 
 2. Use your visualizations (not necessarily all of them) to design a dashboard for each phenomenon. The dashboards should be accompanied by an analysis explaining why the phenomenon may be occurring. 
 
