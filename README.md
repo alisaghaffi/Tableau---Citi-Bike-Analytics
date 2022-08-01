@@ -28,11 +28,11 @@ Your task in this assignment is to aggregate the data found in the Citi Bike Tri
 The following are questions you may wish to answer. Do not limit yourself to these questions; they are suggestions for a starting point. Be creative!
 
 * How many trips have been recorded in total during the chosen period?
-![Citi-Bikes](Images/citi-bike-station-bikes.jpg)
+
+![Citi-Bikes](Images/1-1.png)
 
 * By what percentage has total ridership grown?
 
-![Citi-Bikes](Images/1-1.jpg)
 
 * How have the proportions of short-term customers and annual subscribers changed?
 
